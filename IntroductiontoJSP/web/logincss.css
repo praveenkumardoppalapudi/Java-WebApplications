@@ -1,0 +1,90 @@
+.body1{
+    background-image: url("back.jpg");
+}
+input:focus{
+    border: 1px solid black;
+    border-radius: 20px;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 100px rgba(257,257,257,0.6);
+    
+   
+}
+.div1{
+    
+    position: absolute;
+    top: 105px;
+    right:300px;
+    left:500px;
+    bottom: 50px;
+    background: rgba(0,0,0,.6);
+    width:400px;
+    height: 400px;
+    padding: 30px;
+    box-sizing: border-box;
+    box-shadow: 0px 10px 25px rgba(0,0,0,0.6);
+    color: white;
+    border-radius: 20px;
+    opacity: 0.9;
+    transition: 2s;
+    
+}
+
+.textbox{
+       
+   
+   width: 100%;
+   padding: 10px 0;
+   margin-bottom: 30px;
+   border: none;
+   border-bottom: 1px #ffffff solid;   
+   outline: none;
+   background: transparent;
+   color:white;
+       
+}
+
+.button{
+    font-family: sans-serif;
+    font-size: 16px;
+    background:rgba(120,120,120,0.4);
+    width: 120px;
+    border:none;
+    color:white;
+    border-radius: 10px;
+}
+.fsz{
+    font-family: cursive;
+    font-size: 25px;
+}
+.errbody{
+   
+}
+.registerjsp{
+        background-image: url("img20.jpg");
+        background-size: cover;
+    
+}
+.regjspbox{
+    position: absolute;
+    top: 100px;
+    left: 500px;
+    right: 200px;
+    
+    background: rgba(0,0,0,0.6);
+    height: 450px;
+    width: 400px;
+    color:white;
+    box-sizing: border-box;
+    box-shadow: 0px 10px 25px rgba(0,0,0,0.8);
+   border-radius: 20px;
+    
+}
+.headerstyle{
+    font-family: sans-serif;
+    color:rgba(123,120,233,1);
+    
+}
+.success{
+    background-image: url("img7.jpg");
+    color:white;
+}
